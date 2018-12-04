@@ -1,6 +1,8 @@
 # Ulfius
 
 [![Build Status](https://travis-ci.com/babelouest/ulfius.svg?branch=master)](https://travis-ci.com/babelouest/ulfius)
+[![Code Quality: Cpp](https://img.shields.io/lgtm/grade/cpp/g/babelouest/ulfius.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/babelouest/ulfius/context:cpp)
+[![Total Alerts](https://img.shields.io/lgtm/alerts/g/babelouest/ulfius.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/babelouest/ulfius/alerts)
 
 HTTP Framework for REST Applications in C.
 
